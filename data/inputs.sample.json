@@ -1,0 +1,17 @@
+[
+  {
+    "marketplace": "amazon",
+    "productUrl": "https://www.amazon.com/dp/B000123456",
+    "maxReviews": 5
+  },
+  {
+    "marketplace": "ebay",
+    "productUrl": "https://www.ebay.com/itm/987654321",
+    "maxReviews": 4
+  },
+  {
+    "marketplace": "walmart",
+    "productUrl": "https://www.walmart.com/ip/Example-Product/123456789",
+    "maxReviews": 3
+  }
+]
