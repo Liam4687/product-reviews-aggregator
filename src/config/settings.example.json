@@ -1,0 +1,10 @@
+{
+  "max_reviews_per_product": 10,
+  "export": {
+    "formats": ["json", "csv", "excel"],
+    "output_dir": "data"
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
